@@ -1,0 +1,42 @@
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe.config
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.pdb
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Form1.resources
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Properties.Resources.resources
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.GenerateResource.cache
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.CoreCompileInputs.cache
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.exe
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.pdb
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.AssemblyReference.cache
+C:\Users\bzucc\Documents\Bryan Misc\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.ResolveComReference.cache
+D:\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe.config
+D:\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe
+D:\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.pdb
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csprojAssemblyReference.cache
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.ResolveComReference.cache
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Form1.resources
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Properties.Resources.resources
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.GenerateResource.cache
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.exe
+D:\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.pdb
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe.config
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.pdb
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csprojAssemblyReference.cache
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.ResolveComReference.cache
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Form1.resources
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Properties.Resources.resources
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.GenerateResource.cache
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.exe
+C:\Users\bzaroukian\Documents\Bryan Z Folder\C#\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.pdb
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe.config
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.exe
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\bin\Debug\Friday Load Helper.pdb
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.AssemblyReference.cache
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.ResolveComReference.cache
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Form1.resources
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday_Load_Helper.Properties.Resources.resources
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.GenerateResource.cache
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.csproj.CoreCompileInputs.cache
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.exe
+D:\Programming Projects\Portfolio\Friday Load Helper\Friday Load Helper\obj\Debug\Friday Load Helper.pdb
